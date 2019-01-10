@@ -1,0 +1,24 @@
+{
+  "name": "git-test-ionic",
+  "version": "1.0.0",
+  "description": "Esta es una prueba de directorio para aprender git y node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspassa/git-test-ionic.git"
+  },
+  "author": "lucaspassa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspassa/git-test-ionic/issues"
+  },
+  "homepage": "https://github.com/lucaspassa/git-test-ionic#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
